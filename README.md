@@ -9,5 +9,5 @@ Each file contains the anonymized traffic acquired in the WiFi network in three 
 The dataset is a set of rows in CSV format. Each row contains the information available in the first two layers 
 of the protocol stack. The first row of each file describes the set of the reported information.
 
-The dataset has been acquired by Giuseppe Pericone.
+The dataset has been collected by Giuseppe Pericone.
 
